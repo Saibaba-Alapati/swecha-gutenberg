@@ -1,0 +1,65 @@
+<!-- wp:cover {"url":"https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/5-Best-Speech-to-Text-APIs-2-e1615383933700-1024x573.png","id":2143,"dimRatio":30,"focalPoint":{"x":"0.54","y":"0.99"},"minHeight":569,"minHeightUnit":"px","contentPosition":"center center","align":"wide","mediaAttrs":{"data-entity-type":"file","data-entity-uuid":"52bf54b0-a782-4fd6-810e-20e18bebaebf","data-image-style":"original"}} -->
+<div class="wp-block-cover alignwide has-background-dim-30 has-background-dim is-position-center-center" style="background-image:url(https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/5-Best-Speech-to-Text-APIs-2-e1615383933700-1024x573.png);min-height:569px;background-position:54% 99%" data-entity-type="file" data-entity-uuid="52bf54b0-a782-4fd6-810e-20e18bebaebf" data-image-style="original"><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","textColor":"light-grey","fontSize":"large"} -->
+<p class="has-text-align-center has-light-grey-color has-text-color has-large-font-size"><strong>Training and Building a Model for Swecha Voice</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>By -  C1 Team 12</h3>
+<!-- /wp:heading --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:paragraph {"align":"left","style":{"typography":{"fontSize":24}}} -->
+<p class="has-text-align-left" style="font-size:24px">A voice recognition technology which identifies the query of the<br>user and gives an appropriate reply either in speech or text format.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:paragraph {"textColor":"dark-blue"} -->
+<p class="has-dark-blue-color has-text-color">This Tech communicator uses pre-recorded answers and text-to-speech responses to address the queries of the users. It is an application that can communicate with the user in their natural language to give an answer to a question. It is basically a multilingual application that strives to provide a user -friendly interface. This basically makes the work of customers and the service providers (both in the private and public sector) easy. It works by storing different sentences from different languages and by making use of phonetics we train the communicator to understand different accents and it gives replies accordingly. This application provides an User friendly interface that is easy to handle and can be used in multiple languages, with an easy access to information. In this project we would be collecting related datasets and arrange them in proper manner as per requirement and perform Analysis on the data and try to visualize it.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"left","textColor":"dark-grey","style":{"typography":{"fontSize":18}}} -->
+<p class="has-text-align-left has-dark-grey-color has-text-color" style="font-size:18px">Some of the major features that are included in the model:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true,"textColor":"dark-blue"} -->
+<ol class="has-dark-blue-color has-text-color"><li>Chat bots cannot save queries for later and try to address them, in this tech communicator we will try to achieve this.</li><li>It has the queries answered in the way you want i.e., Text or Speech.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:separator {"className":"is-style-default"} -->
+<hr class="wp-block-separator is-style-default"/>
+<!-- /wp:separator -->
+
+<!-- wp:button {"borderRadius":50,"style":{"color":{"background":"#056693"}},"align":"center","className":"is-style-fill"} -->
+<div class="wp-block-button aligncenter is-style-fill"><a class="wp-block-button__link has-background" href="https://code.swecha.org/AssistiveTech/swecha-voice/training-and-building-a-model" style="border-radius:50px;background-color:#056693" target="_blank" rel="noreferrer noopener"><span class="has-inline-color has-light-grey-color">Project Details</span></a></div>
+<!-- /wp:button -->
+
+<!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"align":"left","level":1} -->
+<h1 class="has-text-align-left">Meet the Team</h1>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li><strong>Saibaba Alapati</strong>                            -Team Leader &amp; Developer</li><li><strong>Aditya Sharma</strong>                              -Team Leader &amp; Developer</li><li><strong>Nemani Sudeep Kumar</strong>               - Developer</li><li><strong>Akshat Singh</strong>                                - Developer</li><li><strong>Muppala Vinay Chowdary</strong>          -Developer</li><li><strong>Pagar Atharva Bhushan</strong>              - Developer</li><li><strong>Sruthi Elaprolu</strong>                             - Developer</li><li><strong>Nallamilli Srimanth Reddy</strong>         - Developer</li><li><strong>Sallagundla Nikhil</strong>                       - Developer</li><li><strong>Bobbili Guru Sai Siva Balaji</strong>       - Developer</li><li><strong>Sashank Dandu</strong>                           - Developer</li><li><strong>Tushara </strong>                                        - Developer</li><li><strong>Aditya Acharya</strong>                            - Developer</li><li><strong>Sashwat Kumar Singh                </strong> - Developer</li><li><strong>Prashant Raghava</strong>                      - Developer</li><li><strong>Sheetal reddy Methuku</strong>            - Developer</li><li><strong>Bolla Sri Naga Surya Vivek</strong>      - Developer</li><li><strong>Shiv goshal</strong>                                 - Developer</li><li><strong>Bolisetty Lokesh</strong>                        - Developer</li><li><strong>Sreekar Bheemshetty</strong>              - Developer</li><li><strong>Karthik Reddy</strong>                            - Developer</li><li><strong>Akash Saini</strong>                                 - Developer</li><li><strong>Dhyana Chidvilas Rotella         </strong> - Developer</li><li><strong>Mohit Bathla</strong>                              - Developer</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:separator {"className":"is-style-wide"} -->
+<hr class="wp-block-separator is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+<h2>About us</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":19}}} -->
+<p style="font-size:19px"><em>We are team of 23 members highly driven individuals. We are people from Three campuses of BITS. We are excited to start a new journey as interns at Swecha. We are involved in making free software.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
+<!-- /wp:paragraph -->
